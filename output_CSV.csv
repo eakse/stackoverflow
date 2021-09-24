@@ -1,0 +1,3 @@
+,car,name,description,production_time,tags,references,country,fuel_type,color,price,vehicle_type,count,technic.0-100,technic.horsepower,mileage.mile
+0,BMW,5,,2017-07-16,"['car', 'BMW', 'sedan']",[],['germany'],['electrical'],black,,Car,3,-,165Nm,14004
+1,Mercedes,3,,2016-07-16,"['car', 'Mercedes', 'SUV']",[],['France'],[None],Blue,,Car,3,-,162Nm,42358

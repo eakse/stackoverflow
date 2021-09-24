@@ -1,0 +1,21 @@
+The simple answer is that there's no app exposed inside the module. You have the create_app_instance() method but this is not called.
+
+Quick and dirty fix is creating a file in the root directory, and instantiating the app there.
+
+.\application.py
+
+from module.app import create_app_instance
+
+
+app = create_app_instance()
+
+
+if __name__ == '__main__':
+    app.run()
+and then the gunicorn line to start the server would be:
+
+gunicorn --bind localhost:8000 --worker-class sanic_gunicorn.Worker application:app
+What this does is it calls the exposed app inside application.py. The __main__.py is not needed.
+
+I highly advise you to read through documentation/tutorials for Application Factory Pattern for Flask. The principle itself is the same as for Sanic, but there's more articles that describe the principle for Flask...
+

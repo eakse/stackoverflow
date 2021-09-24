@@ -1,0 +1,25 @@
+{
+    "Affiliate": [
+        {
+            "ov": true,
+            "value": "United States",
+            "lookupCode": "US"
+        },
+        {
+            "ov": false,
+            "value": "France",
+            "lookupCode": "FR"
+        }
+    ],
+    "Sample1": "im a value",
+    "Sample2": [
+        {
+            "criteria2": false,
+            "returnvalue": "i am not a return value"
+        },
+        {
+            "criteria2": true,
+            "returnvalue": "i am a return value"
+        }
+    ]
+}

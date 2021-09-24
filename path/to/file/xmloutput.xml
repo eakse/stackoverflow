@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<TestSuite Name="DM123">
+  <Group Name="TestRoot" ExecutionPolicy="AnyDeviceAnyOrder">
+    <Parameters>
+      <Parameter Type="Integer" Name="maxA" Value="1" />
+      <Parameter Type="Integer" Name="MaxB" Value="120" />
+      <Parameter Type="String" Name="MaxC" Value="integration" />
+    </Parameters>
+    <Children>
+      <Test Name="Test5" Namespace="TestCases">
+        <Parameters>
+           <Parameter Type="Dev" Name="Dev">
+               <Requirements>
+                 <Requirement TypeId="a76" Source="User" />
+                 <Requirement TypeId="2c9" Source="User" />
+               </Requirements>
+           </Parameter>
+        </Parameters>
+      </Test>
+      <Test Name="Test1" Namespace="TestCases">
+        <Parameters>
+           <Parameter Type="Device" Name="Device">
+             <Requirements>
+               <Requirement TypeId="a76" Source="User" />
+               <Requirement TypeId="2c9" Source="User" />
+             </Requirements>
+           </Parameter>
+        </Parameters>
+      </Test>
+      <Test Name="Test6" Namespace="TestCases">
+            <Parameters>
+              <Parameter Type="Dev" Name="Dev">
+                <Requirements>
+                  <Requirement TypeId="a76" Source="User" />
+                  <Requirement TypeId="2c9" Source="User" />
+                </Requirements>
+              </Parameter>
+              <Parameter Type="Integer" Name="expected amount of images" Value="10" />
+            </Parameters>
+      </Test>
+   </Children>
+  </Group>
+  <Models>
+    <Model Name="DD1" />
+  </Models>
+</TestSuite>

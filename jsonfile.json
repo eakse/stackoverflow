@@ -1,0 +1,26 @@
+{
+    "datasetType": "monolingual-corpus",
+    "languages": {
+        "sourceLanguage": "hi"
+    },
+    "collectionSource": [
+        "http://pib.gov.in/"
+    ],
+    "domain":[
+        "news"
+    ],
+    "license": "cc-by-4.0",
+    "submitter": {
+        "name": "Project aroad",
+        "aboutMe": "Open source project run by aroad foundation",
+        "team": [
+            {
+                "name": "Navneet Kumar hegde"
+            },
+            {
+                "name": "Aswini Pradeep",
+                "aboutMe": "Backend team lead at Project aroad"
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "information": {
+            "title": " KUWAIT ENERGY CO. KSCC",
+            "Member_No": " 100018",
+            "Auth_Capital": " 127000000",
+            "Email": " mansour.aboukhamseen@koc.com.kw"
+        },
+        "users": [
+            {
+                "name": "منصور احمد محمد بوخمسين",
+                "role": "  Chairman of the board of Directors",
+                "nationality": " KUWAIT"
+            },
+            {
+                "name": "محمد عادل التميمي",
+                "role": "  Vice Chairman and Cheif Executive",
+                "nationality": " CANADA"
+            }
+        ]
+    },
+    {
+        "information": {
+            "title": " SALEM INTERNATIONAL ADVERTISING CO.",
+            "Member_No": " 100021",
+            "Auth_Capital": " 10000",
+            "Email": null
+        },
+        "users": [
+            {
+                "name": "SALEM M. AL-AJMI",
+                "role": "  Authorized partner with Doc.",
+                "nationality": " KUWAIT"
+            }
+        ]
+    },
+    {
+        "information": {
+            "title": " POWER TOUCH GEN. TRAD. & CONT. CO.",
+            "Member_No": " 100026",
+            "Auth_Capital": " 500000",
+            "Email": null
+        },
+        "users": [
+            {
+                "name": "ريم محمد سالم الحريص",
+                "role": "  Partner",
+                "nationality": " KUWAIT"
+            },
+            {
+                "name": "محمد 0 0",
+                "role": "  Special Power of Attorney",
+                "nationality": " KUWAIT"
+            },
+            {
+                "name": "سالم 0 0",
+                "role": "  Special Power of Attorney",
+                "nationality": " KUWAIT"
+            }
+        ]
+    }
+]

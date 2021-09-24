@@ -1,0 +1,28 @@
+{
+    "dataset": [
+        {
+            "data": [
+                {
+                    "y": 36.5,
+                    "t": 1632429000000
+                }
+            ],
+            "meas": "\u00b0C",
+            "label": "t_test",
+            "fill": false,
+            "pointRadius": 0,
+            "borderWidth": 1.5,
+            "backgroundColor": "#8000804f",
+            "borderColor": "#8000807f",
+            "label2": "(Avg: 36.50 \u00b0C, Min: 36.50 \u00b0C, Max: 36.50 \u00b0C, Start: 36.50 \u00b0C, End: 36.50 \u00b0C, Diff: 0.00 \u00b0C)"
+        }
+    ],
+    "additionalInfo": {
+        "zoom": {
+            "xmin": 1632429000000,
+            "xmax": 1632429000000,
+            "ymin": 32,
+            "ymax": 44
+        }
+    }
+}

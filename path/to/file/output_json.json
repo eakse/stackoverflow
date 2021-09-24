@@ -1,0 +1,34 @@
+[
+    {
+        "Date": "January,1997",
+        "Specific_Date": "January 12,1997",
+        "Topic": {
+            "GPO": "weather",
+            "CAP": "rain & cloudy"
+        },
+        "GPO": {
+            "hearing_sub_type": "Oversight"
+        },
+        "CAP": {
+            "majortopic": "25",
+            "id": "79851",
+            "Chamber": "1"
+        }
+    },
+    {
+        "Date": "January,1997",
+        "Specific_Date": "January 1,1997",
+        "Topic": {
+            "GPO": "forest",
+            "CAP": "many forest"
+        },
+        "GPO": {
+            "hearing_sub_type": "General"
+        },
+        "CAP": {
+            "majortopic": "21",
+            "id": "79846",
+            "Chamber": "1"
+        }
+    }
+]

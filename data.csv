@@ -1,0 +1,1 @@
+dd if=DietPi_RPi-ARMv8-Buster.img of=/dev/sdc bs=4M conv=fsync status=progress

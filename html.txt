@@ -1,0 +1,3421 @@
+          </tr><tr>
+            <td>Afrikaans (South Africa)</td>
+            <td>af-ZA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Afrikaans (South Africa)</td>
+            <td>af-ZA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Albanian (Albania)</td>
+            <td>sq-AL</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Albanian (Albania)</td>
+            <td>sq-AL</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Amharic (Ethiopia)</td>
+            <td>am-ET</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Amharic (Ethiopia)</td>
+            <td>am-ET</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Algeria)</td>
+            <td>ar-DZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Algeria)</td>
+            <td>ar-DZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Bahrain)</td>
+            <td>ar-BH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Bahrain)</td>
+            <td>ar-BH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Egypt)</td>
+            <td>ar-EG</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Egypt)</td>
+            <td>ar-EG</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Iraq)</td>
+            <td>ar-IQ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Iraq)</td>
+            <td>ar-IQ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Israel)</td>
+            <td>ar-IL</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Israel)</td>
+            <td>ar-IL</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Jordan)</td>
+            <td>ar-JO</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Jordan)</td>
+            <td>ar-JO</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Kuwait)</td>
+            <td>ar-KW</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Kuwait)</td>
+            <td>ar-KW</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Lebanon)</td>
+            <td>ar-LB</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Lebanon)</td>
+            <td>ar-LB</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Morocco)</td>
+            <td>ar-MA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Morocco)</td>
+            <td>ar-MA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Oman)</td>
+            <td>ar-OM</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Oman)</td>
+            <td>ar-OM</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Qatar)</td>
+            <td>ar-QA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Qatar)</td>
+            <td>ar-QA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Saudi Arabia)</td>
+            <td>ar-SA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Saudi Arabia)</td>
+            <td>ar-SA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (State of Palestine)</td>
+            <td>ar-PS</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (State of Palestine)</td>
+            <td>ar-PS</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Tunisia)</td>
+            <td>ar-TN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Tunisia)</td>
+            <td>ar-TN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (United Arab Emirates)</td>
+            <td>ar-AE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (United Arab Emirates)</td>
+            <td>ar-AE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Arabic (Yemen)</td>
+            <td>ar-YE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Arabic (Yemen)</td>
+            <td>ar-YE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Armenian (Armenia)</td>
+            <td>hy-AM</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Armenian (Armenia)</td>
+            <td>hy-AM</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Azerbaijani (Azerbaijan)</td>
+            <td>az-AZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Azerbaijani (Azerbaijan)</td>
+            <td>az-AZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Basque (Spain)</td>
+            <td>eu-ES</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Basque (Spain)</td>
+            <td>eu-ES</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Bengali (Bangladesh)</td>
+            <td>bn-BD</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Bengali (Bangladesh)</td>
+            <td>bn-BD</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Bengali (India)</td>
+            <td>bn-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Bengali (India)</td>
+            <td>bn-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Bosnian (Bosnia and Herzegovina)</td>
+            <td>bs-BA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Bosnian (Bosnia and Herzegovina)</td>
+            <td>bs-BA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Bulgarian (Bulgaria)</td>
+            <td>bg-BG</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Bulgarian (Bulgaria)</td>
+            <td>bg-BG</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Burmese (Myanmar)</td>
+            <td>my-MM</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Burmese (Myanmar)</td>
+            <td>my-MM</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Catalan (Spain)</td>
+            <td>ca-ES</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Catalan (Spain)</td>
+            <td>ca-ES</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Chinese, Cantonese (Traditional Hong Kong)</td>
+            <td>yue-Hant-HK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Chinese, Cantonese (Traditional Hong Kong)</td>
+            <td>yue-Hant-HK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Chinese, Mandarin (Simplified, China)</td>
+            <td>zh (cmn-Hans-CN)</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>Chinese, Mandarin (Simplified, China)</td>
+            <td>zh (cmn-Hans-CN)</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>Chinese, Mandarin (Traditional, Taiwan)</td>
+            <td>zh-TW (cmn-Hant-TW)</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Chinese, Mandarin (Traditional, Taiwan)</td>
+            <td>zh-TW (cmn-Hant-TW)</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Croatian (Croatia)</td>
+            <td>hr-HR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Croatian (Croatia)</td>
+            <td>hr-HR</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Czech (Czech Republic)</td>
+            <td>cs-CZ</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Czech (Czech Republic)</td>
+            <td>cs-CZ</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Danish (Denmark)</td>
+            <td>da-DK</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Danish (Denmark)</td>
+            <td>da-DK</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Dutch (Belgium)</td>
+            <td>nl-BE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Dutch (Belgium)</td>
+            <td>nl-BE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Dutch (Netherlands)</td>
+            <td>nl-NL</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Dutch (Netherlands)</td>
+            <td>nl-NL</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>English (Australia)</td>
+            <td>en-AU</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>English (Australia)</td>
+            <td>en-AU</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- auto boo prof spunc semj -->
+          </tr><tr>
+            <td>English (Canada)</td>
+            <td>en-CA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>English (Canada)</td>
+            <td>en-CA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>English (Ghana)</td>
+            <td>en-GH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (Ghana)</td>
+            <td>en-GH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>English (Hong Kong)</td>
+            <td>en-HK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>English (Hong Kong)</td>
+            <td>en-HK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- prof spunc semj -->
+          </tr><tr>
+            <td>English (India)</td>
+            <td>en-IN</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>English (India)</td>
+            <td>en-IN</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- auto diar boo prof spunc semj -->
+          </tr><tr>
+            <td>English (Ireland)</td>
+            <td>en-IE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>English (Ireland)</td>
+            <td>en-IE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- prof spunc semj -->
+          </tr><tr>
+            <td>English (Kenya)</td>
+            <td>en-KE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (Kenya)</td>
+            <td>en-KE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>English (New Zealand)</td>
+            <td>en-NZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>English (New Zealand)</td>
+            <td>en-NZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- prof spunc semj -->
+          </tr><tr>
+            <td>English (Nigeria)</td>
+            <td>en-NG</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (Nigeria)</td>
+            <td>en-NG</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>English (Pakistan)</td>
+            <td>en-PK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>English (Pakistan)</td>
+            <td>en-PK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- prof spunc semj -->
+          </tr><tr>
+            <td>English (Philippines)</td>
+            <td>en-PH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (Philippines)</td>
+            <td>en-PH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (Singapore)</td>
+            <td>en-SG</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>English (Singapore)</td>
+            <td>en-SG</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>English (South Africa)</td>
+            <td>en-ZA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (South Africa)</td>
+            <td>en-ZA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>English (Tanzania)</td>
+            <td>en-TZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>English (Tanzania)</td>
+            <td>en-TZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>English (United Kingdom)</td>
+            <td>en-GB</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>English (United Kingdom)</td>
+            <td>en-GB</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- auto diar boo prof spunc semj -->
+          </tr><tr>
+            <td>English (United Kingdom)</td>
+            <td>en-GB</td>
+            <td>Enhanced phone call</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>English (United Kingdom)</td>
+            <td>en-GB</td>
+            <td>Phone call</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>English (United States)</td>
+            <td>en-US</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>English (United States)</td>
+            <td>en-US</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>English (United States)</td>
+            <td>en-US</td>
+            <td>Enhanced phone call</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>English (United States)</td>
+            <td>en-US</td>
+            <td>Enhanced video</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>English (United States)</td>
+            <td>en-US</td>
+            <td>Phone call</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>Estonian (Estonia)</td>
+            <td>et-EE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Estonian (Estonia)</td>
+            <td>et-EE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Filipino (Philippines)</td>
+            <td>fil-PH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Filipino (Philippines)</td>
+            <td>fil-PH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Finnish (Finland)</td>
+            <td>fi-FI</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Finnish (Finland)</td>
+            <td>fi-FI</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>French (Belgium)</td>
+            <td>fr-BE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>French (Belgium)</td>
+            <td>fr-BE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- prof spunc semj -->
+          </tr><tr>
+            <td>French (Canada)</td>
+            <td>fr-CA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>French (Canada)</td>
+            <td>fr-CA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>French (France)</td>
+            <td>fr-FR</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>French (France)</td>
+            <td>fr-FR</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- auto diar boo prof spunc semj -->
+          </tr><tr>
+            <td>French (France)</td>
+            <td>fr-FR</td>
+            <td>Enhanced phone call</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>French (France)</td>
+            <td>fr-FR</td>
+            <td>Phone call (Beta)</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo wlc prof -->
+          </tr><tr>
+            <td>French (Switzerland)</td>
+            <td>fr-CH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>French (Switzerland)</td>
+            <td>fr-CH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <!-- prof spunc semj -->
+          </tr><tr>
+            <td>Galician (Spain)</td>
+            <td>gl-ES</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Galician (Spain)</td>
+            <td>gl-ES</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Georgian (Georgia)</td>
+            <td>ka-GE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Georgian (Georgia)</td>
+            <td>ka-GE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>German (Austria)</td>
+            <td>de-AT</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>German (Austria)</td>
+            <td>de-AT</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>German (Germany)</td>
+            <td>de-DE</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>German (Germany)</td>
+            <td>de-DE</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto diar boo prof spunc -->
+          </tr><tr>
+            <td>German (Switzerland)</td>
+            <td>de-CH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>German (Switzerland)</td>
+            <td>de-CH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Greek (Greece)</td>
+            <td>el-GR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Greek (Greece)</td>
+            <td>el-GR</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Gujarati (India)</td>
+            <td>gu-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Gujarati (India)</td>
+            <td>gu-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Hebrew (Israel)</td>
+            <td>iw-IL</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Hebrew (Israel)</td>
+            <td>iw-IL</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>Hindi (India)</td>
+            <td>hi-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Hindi (India)</td>
+            <td>hi-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>Hungarian (Hungary)</td>
+            <td>hu-HU</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Hungarian (Hungary)</td>
+            <td>hu-HU</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Icelandic (Iceland)</td>
+            <td>is-IS</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Icelandic (Iceland)</td>
+            <td>is-IS</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Indonesian (Indonesia)</td>
+            <td>id-ID</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Indonesian (Indonesia)</td>
+            <td>id-ID</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Italian (Italy)</td>
+            <td>it-IT</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>Italian (Italy)</td>
+            <td>it-IT</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto diar boo prof spunc -->
+          </tr><tr>
+            <td>Italian (Switzerland)</td>
+            <td>it-CH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Italian (Switzerland)</td>
+            <td>it-CH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Japanese (Japan)</td>
+            <td>ja-JP</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto diar boo prof -->
+          </tr><tr>
+            <td>Japanese (Japan)</td>
+            <td>ja-JP</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto diar boo prof spunc -->
+          </tr><tr>
+            <td>Javanese (Indonesia)</td>
+            <td>jv-ID</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Javanese (Indonesia)</td>
+            <td>jv-ID</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Kannada (India)</td>
+            <td>kn-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Kannada (India)</td>
+            <td>kn-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Kazakh (Kazakhstan)</td>
+            <td>kk-KZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Kazakh (Kazakhstan)</td>
+            <td>kk-KZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Khmer (Cambodia)</td>
+            <td>km-KH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Khmer (Cambodia)</td>
+            <td>km-KH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Korean (South Korea)</td>
+            <td>ko-KR</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Korean (South Korea)</td>
+            <td>ko-KR</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Lao (Laos)</td>
+            <td>lo-LA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Lao (Laos)</td>
+            <td>lo-LA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Latvian (Latvia)</td>
+            <td>lv-LV</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Latvian (Latvia)</td>
+            <td>lv-LV</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Lithuanian (Lithuania)</td>
+            <td>lt-LT</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Lithuanian (Lithuania)</td>
+            <td>lt-LT</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Macedonian (North Macedonia)</td>
+            <td>mk-MK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Macedonian (North Macedonia)</td>
+            <td>mk-MK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Malay (Malaysia)</td>
+            <td>ms-MY</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Malay (Malaysia)</td>
+            <td>ms-MY</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Malayalam (India)</td>
+            <td>ml-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Malayalam (India)</td>
+            <td>ml-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>Marathi (India)</td>
+            <td>mr-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Marathi (India)</td>
+            <td>mr-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Mongolian (Mongolia)</td>
+            <td>mn-MN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Mongolian (Mongolia)</td>
+            <td>mn-MN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Nepali (Nepal)</td>
+            <td>ne-NP</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Nepali (Nepal)</td>
+            <td>ne-NP</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Norwegian Bokmål (Norway)</td>
+            <td>no-NO</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Norwegian Bokmål (Norway)</td>
+            <td>no-NO</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>Persian (Iran)</td>
+            <td>fa-IR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Persian (Iran)</td>
+            <td>fa-IR</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Polish (Poland)</td>
+            <td>pl-PL</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Polish (Poland)</td>
+            <td>pl-PL</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>Portuguese (Brazil)</td>
+            <td>pt-BR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- diar boo prof -->
+          </tr><tr>
+            <td>Portuguese (Brazil)</td>
+            <td>pt-BR</td>
+            <td>Default</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- diar boo prof spunc -->
+          </tr><tr>
+            <td>Portuguese (Portugal)</td>
+            <td>pt-PT</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Portuguese (Portugal)</td>
+            <td>pt-PT</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- boo prof spunc -->
+          </tr><tr>
+            <td>Punjabi (Gurmukhi India)</td>
+            <td>pa-Guru-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Punjabi (Gurmukhi India)</td>
+            <td>pa-Guru-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Romanian (Romania)</td>
+            <td>ro-RO</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Romanian (Romania)</td>
+            <td>ro-RO</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Russian (Russia)</td>
+            <td>ru-RU</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- diar boo prof -->
+          </tr><tr>
+            <td>Russian (Russia)</td>
+            <td>ru-RU</td>
+            <td>Default</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- diar boo prof spunc -->
+          </tr><tr>
+            <td>Russian (Russia)</td>
+            <td>ru-RU</td>
+            <td>Enhanced phone call</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- diar boo prof -->
+          </tr><tr>
+            <td>Russian (Russia)</td>
+            <td>ru-RU</td>
+            <td>Phone call</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- diar boo prof -->
+          </tr><tr>
+            <td>Serbian (Serbia)</td>
+            <td>sr-RS</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Serbian (Serbia)</td>
+            <td>sr-RS</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Sinhala (Sri Lanka)</td>
+            <td>si-LK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Sinhala (Sri Lanka)</td>
+            <td>si-LK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Slovak (Slovakia)</td>
+            <td>sk-SK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Slovak (Slovakia)</td>
+            <td>sk-SK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Slovenian (Slovenia)</td>
+            <td>sl-SI</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Slovenian (Slovenia)</td>
+            <td>sl-SI</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Argentina)</td>
+            <td>es-AR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Argentina)</td>
+            <td>es-AR</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Bolivia)</td>
+            <td>es-BO</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Bolivia)</td>
+            <td>es-BO</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Chile)</td>
+            <td>es-CL</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Chile)</td>
+            <td>es-CL</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Colombia)</td>
+            <td>es-CO</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Colombia)</td>
+            <td>es-CO</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Costa Rica)</td>
+            <td>es-CR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Costa Rica)</td>
+            <td>es-CR</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Dominican Republic)</td>
+            <td>es-DO</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Dominican Republic)</td>
+            <td>es-DO</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Ecuador)</td>
+            <td>es-EC</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Ecuador)</td>
+            <td>es-EC</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (El Salvador)</td>
+            <td>es-SV</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (El Salvador)</td>
+            <td>es-SV</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Guatemala)</td>
+            <td>es-GT</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Guatemala)</td>
+            <td>es-GT</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Honduras)</td>
+            <td>es-HN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Honduras)</td>
+            <td>es-HN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Mexico)</td>
+            <td>es-MX</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Mexico)</td>
+            <td>es-MX</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Nicaragua)</td>
+            <td>es-NI</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Nicaragua)</td>
+            <td>es-NI</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Panama)</td>
+            <td>es-PA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Panama)</td>
+            <td>es-PA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Paraguay)</td>
+            <td>es-PY</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Paraguay)</td>
+            <td>es-PY</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Peru)</td>
+            <td>es-PE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Peru)</td>
+            <td>es-PE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Puerto Rico)</td>
+            <td>es-PR</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Puerto Rico)</td>
+            <td>es-PR</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Spain)</td>
+            <td>es-ES</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- diar boo prof -->
+          </tr><tr>
+            <td>Spanish (Spain)</td>
+            <td>es-ES</td>
+            <td>Default</td>
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- diar boo prof spunc -->
+          </tr><tr>
+            <td>Spanish (United States)</td>
+            <td>es-US</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Spanish (United States)</td>
+            <td>es-US</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Spanish (United States)</td>
+            <td>es-US</td>
+            <td>Enhanced phone call</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Spanish (United States)</td>
+            <td>es-US</td>
+            <td>Phone call</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Spanish (Uruguay)</td>
+            <td>es-UY</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Uruguay)</td>
+            <td>es-UY</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Spanish (Venezuela)</td>
+            <td>es-VE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Spanish (Venezuela)</td>
+            <td>es-VE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- prof spunc -->
+          </tr><tr>
+            <td>Sundanese (Indonesia)</td>
+            <td>su-ID</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Sundanese (Indonesia)</td>
+            <td>su-ID</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Swahili (Kenya)</td>
+            <td>sw-KE</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Swahili (Kenya)</td>
+            <td>sw-KE</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Swahili (Tanzania)</td>
+            <td>sw-TZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Swahili (Tanzania)</td>
+            <td>sw-TZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Swedish (Sweden)</td>
+            <td>sv-SE</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Swedish (Sweden)</td>
+            <td>sv-SE</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Tamil (India)</td>
+            <td>ta-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Tamil (India)</td>
+            <td>ta-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Tamil (Malaysia)</td>
+            <td>ta-MY</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Tamil (Malaysia)</td>
+            <td>ta-MY</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Tamil (Singapore)</td>
+            <td>ta-SG</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Tamil (Singapore)</td>
+            <td>ta-SG</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Tamil (Sri Lanka)</td>
+            <td>ta-LK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Tamil (Sri Lanka)</td>
+            <td>ta-LK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Telugu (India)</td>
+            <td>te-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Telugu (India)</td>
+            <td>te-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Thai (Thailand)</td>
+            <td>th-TH</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Thai (Thailand)</td>
+            <td>th-TH</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Turkish (Turkey)</td>
+            <td>tr-TR</td>
+            <td>Command and search</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- auto boo prof -->
+          </tr><tr>
+            <td>Turkish (Turkey)</td>
+            <td>tr-TR</td>
+            <td>Default</td>
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td>✔</td> 
+            <td></td> 
+            <!-- auto boo prof spunc -->
+          </tr><tr>
+            <td>Ukrainian (Ukraine)</td>
+            <td>uk-UA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Ukrainian (Ukraine)</td>
+            <td>uk-UA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Urdu (India)</td>
+            <td>ur-IN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Urdu (India)</td>
+            <td>ur-IN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Urdu (Pakistan)</td>
+            <td>ur-PK</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Urdu (Pakistan)</td>
+            <td>ur-PK</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Uzbek (Uzbekistan)</td>
+            <td>uz-UZ</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Uzbek (Uzbekistan)</td>
+            <td>uz-UZ</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- prof -->
+          </tr><tr>
+            <td>Vietnamese (Vietnam)</td>
+            <td>vi-VN</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Vietnamese (Vietnam)</td>
+            <td>vi-VN</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Zulu (South Africa)</td>
+            <td>zu-ZA</td>
+            <td>Command and search</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr><tr>
+            <td>Zulu (South Africa)</td>
+            <td>zu-ZA</td>
+            <td>Default</td>
+            <td></td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td>✔</td> 
+            <td></td> 
+            <td></td> 
+            <!-- boo prof -->
+          </tr>

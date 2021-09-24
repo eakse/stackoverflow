@@ -1,0 +1,82 @@
+[
+    {
+        "Date": "January,1997",
+        "Specific_Date": "January 1,1997",
+        "Topic": {
+            "GPO": "forest",
+            "CAP": "many forest"
+        },
+        "GPO": {
+            "hearing_sub_type": "General"
+        },
+        "CAP": {
+            "majortopic": "21",
+            "id": "79846",
+            "Chamber": "1"
+        }
+    },
+    {
+        "Date": "June,2000",
+        "Specific_Date": "June 5,2000",
+        "Topic": {
+            "GPO": "life",
+            "CAP": "good life"
+        },
+        "GPO": {
+            "hearing_sub_type": "General"
+        },
+        "CAP": {
+            "majortopic": "7",
+            "id": "79849",
+            "Chamber": "2"
+        }
+    },
+    {
+        "Date": "January,1997",
+        "Specific_Date": "January 1,1997",
+        "Topic": {
+            "GPO": "weather",
+            "CAP": "good weather"
+        },
+        "GPO": {
+            "hearing_sub_type": "General"
+        },
+        "CAP": {
+            "majortopic": "21",
+            "id": "79850",
+            "Chamber": "1"
+        }
+    },
+    {
+        "Date": "January,1997",
+        "Specific_Date": "January 12,1997",
+        "Topic": {
+            "GPO": "weather",
+            "CAP": "rain & cloudy"
+        },
+        "GPO": {
+            "hearing_sub_type": "Oversight"
+        },
+        "CAP": {
+            "majortopic": "25",
+            "id": "79851",
+            "Chamber": "1"
+        }
+    },
+    {
+        "Date": "June,2000",
+        "Specific_Date": "June 5,2000",
+        "Topic": {
+            "GPO": "depressed",
+            "CAP": "sad & depressed"
+        },
+        "GPO": {
+            "hearing_sub_type": "Oversight"
+        },
+        "CAP": {
+            "majortopic": "6",
+            "id": "79852",
+            "Chamber": "2"
+        }
+    }
+]

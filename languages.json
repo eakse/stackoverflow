@@ -1,0 +1,550 @@
+[
+    {
+        "short": "af-ZA",
+        "long": "Afrikaans (South Africa)"
+    },
+    {
+        "short": "sq-AL",
+        "long": "Albanian (Albania)"
+    },
+    {
+        "short": "am-ET",
+        "long": "Amharic (Ethiopia)"
+    },
+    {
+        "short": "ar-DZ",
+        "long": "Arabic (Algeria)"
+    },
+    {
+        "short": "ar-BH",
+        "long": "Arabic (Bahrain)"
+    },
+    {
+        "short": "ar-EG",
+        "long": "Arabic (Egypt)"
+    },
+    {
+        "short": "ar-IQ",
+        "long": "Arabic (Iraq)"
+    },
+    {
+        "short": "ar-IL",
+        "long": "Arabic (Israel)"
+    },
+    {
+        "short": "ar-JO",
+        "long": "Arabic (Jordan)"
+    },
+    {
+        "short": "ar-KW",
+        "long": "Arabic (Kuwait)"
+    },
+    {
+        "short": "ar-LB",
+        "long": "Arabic (Lebanon)"
+    },
+    {
+        "short": "ar-MA",
+        "long": "Arabic (Morocco)"
+    },
+    {
+        "short": "ar-OM",
+        "long": "Arabic (Oman)"
+    },
+    {
+        "short": "ar-QA",
+        "long": "Arabic (Qatar)"
+    },
+    {
+        "short": "ar-SA",
+        "long": "Arabic (Saudi Arabia)"
+    },
+    {
+        "short": "ar-PS",
+        "long": "Arabic (State of Palestine)"
+    },
+    {
+        "short": "ar-TN",
+        "long": "Arabic (Tunisia)"
+    },
+    {
+        "short": "ar-AE",
+        "long": "Arabic (United Arab Emirates)"
+    },
+    {
+        "short": "ar-YE",
+        "long": "Arabic (Yemen)"
+    },
+    {
+        "short": "hy-AM",
+        "long": "Armenian (Armenia)"
+    },
+    {
+        "short": "az-AZ",
+        "long": "Azerbaijani (Azerbaijan)"
+    },
+    {
+        "short": "eu-ES",
+        "long": "Basque (Spain)"
+    },
+    {
+        "short": "bn-BD",
+        "long": "Bengali (Bangladesh)"
+    },
+    {
+        "short": "bn-IN",
+        "long": "Bengali (India)"
+    },
+    {
+        "short": "bs-BA",
+        "long": "Bosnian (Bosnia and Herzegovina)"
+    },
+    {
+        "short": "bg-BG",
+        "long": "Bulgarian (Bulgaria)"
+    },
+    {
+        "short": "my-MM",
+        "long": "Burmese (Myanmar)"
+    },
+    {
+        "short": "ca-ES",
+        "long": "Catalan (Spain)"
+    },
+    {
+        "short": "yue-Hant-HK",
+        "long": "Chinese, Cantonese (Traditional Hong Kong)"
+    },
+    {
+        "short": "zh (cmn-Hans-CN)",
+        "long": "Chinese, Mandarin (Simplified, China)"
+    },
+    {
+        "short": "zh-TW (cmn-Hant-TW)",
+        "long": "Chinese, Mandarin (Traditional, Taiwan)"
+    },
+    {
+        "short": "hr-HR",
+        "long": "Croatian (Croatia)"
+    },
+    {
+        "short": "cs-CZ",
+        "long": "Czech (Czech Republic)"
+    },
+    {
+        "short": "da-DK",
+        "long": "Danish (Denmark)"
+    },
+    {
+        "short": "nl-BE",
+        "long": "Dutch (Belgium)"
+    },
+    {
+        "short": "nl-NL",
+        "long": "Dutch (Netherlands)"
+    },
+    {
+        "short": "en-AU",
+        "long": "English (Australia)"
+    },
+    {
+        "short": "en-CA",
+        "long": "English (Canada)"
+    },
+    {
+        "short": "en-GH",
+        "long": "English (Ghana)"
+    },
+    {
+        "short": "en-HK",
+        "long": "English (Hong Kong)"
+    },
+    {
+        "short": "en-IN",
+        "long": "English (India)"
+    },
+    {
+        "short": "en-IE",
+        "long": "English (Ireland)"
+    },
+    {
+        "short": "en-KE",
+        "long": "English (Kenya)"
+    },
+    {
+        "short": "en-NZ",
+        "long": "English (New Zealand)"
+    },
+    {
+        "short": "en-NG",
+        "long": "English (Nigeria)"
+    },
+    {
+        "short": "en-PK",
+        "long": "English (Pakistan)"
+    },
+    {
+        "short": "en-PH",
+        "long": "English (Philippines)"
+    },
+    {
+        "short": "en-SG",
+        "long": "English (Singapore)"
+    },
+    {
+        "short": "en-ZA",
+        "long": "English (South Africa)"
+    },
+    {
+        "short": "en-TZ",
+        "long": "English (Tanzania)"
+    },
+    {
+        "short": "en-GB",
+        "long": "English (United Kingdom)"
+    },
+    {
+        "short": "en-US",
+        "long": "English (United States)"
+    },
+    {
+        "short": "et-EE",
+        "long": "Estonian (Estonia)"
+    },
+    {
+        "short": "fil-PH",
+        "long": "Filipino (Philippines)"
+    },
+    {
+        "short": "fi-FI",
+        "long": "Finnish (Finland)"
+    },
+    {
+        "short": "fr-BE",
+        "long": "French (Belgium)"
+    },
+    {
+        "short": "fr-CA",
+        "long": "French (Canada)"
+    },
+    {
+        "short": "fr-FR",
+        "long": "French (France)"
+    },
+    {
+        "short": "fr-CH",
+        "long": "French (Switzerland)"
+    },
+    {
+        "short": "gl-ES",
+        "long": "Galician (Spain)"
+    },
+    {
+        "short": "ka-GE",
+        "long": "Georgian (Georgia)"
+    },
+    {
+        "short": "de-AT",
+        "long": "German (Austria)"
+    },
+    {
+        "short": "de-DE",
+        "long": "German (Germany)"
+    },
+    {
+        "short": "de-CH",
+        "long": "German (Switzerland)"
+    },
+    {
+        "short": "el-GR",
+        "long": "Greek (Greece)"
+    },
+    {
+        "short": "gu-IN",
+        "long": "Gujarati (India)"
+    },
+    {
+        "short": "iw-IL",
+        "long": "Hebrew (Israel)"
+    },
+    {
+        "short": "hi-IN",
+        "long": "Hindi (India)"
+    },
+    {
+        "short": "hu-HU",
+        "long": "Hungarian (Hungary)"
+    },
+    {
+        "short": "is-IS",
+        "long": "Icelandic (Iceland)"
+    },
+    {
+        "short": "id-ID",
+        "long": "Indonesian (Indonesia)"
+    },
+    {
+        "short": "it-IT",
+        "long": "Italian (Italy)"
+    },
+    {
+        "short": "it-CH",
+        "long": "Italian (Switzerland)"
+    },
+    {
+        "short": "ja-JP",
+        "long": "Japanese (Japan)"
+    },
+    {
+        "short": "jv-ID",
+        "long": "Javanese (Indonesia)"
+    },
+    {
+        "short": "kn-IN",
+        "long": "Kannada (India)"
+    },
+    {
+        "short": "kk-KZ",
+        "long": "Kazakh (Kazakhstan)"
+    },
+    {
+        "short": "km-KH",
+        "long": "Khmer (Cambodia)"
+    },
+    {
+        "short": "ko-KR",
+        "long": "Korean (South Korea)"
+    },
+    {
+        "short": "lo-LA",
+        "long": "Lao (Laos)"
+    },
+    {
+        "short": "lv-LV",
+        "long": "Latvian (Latvia)"
+    },
+    {
+        "short": "lt-LT",
+        "long": "Lithuanian (Lithuania)"
+    },
+    {
+        "short": "mk-MK",
+        "long": "Macedonian (North Macedonia)"
+    },
+    {
+        "short": "ms-MY",
+        "long": "Malay (Malaysia)"
+    },
+    {
+        "short": "ml-IN",
+        "long": "Malayalam (India)"
+    },
+    {
+        "short": "mr-IN",
+        "long": "Marathi (India)"
+    },
+    {
+        "short": "mn-MN",
+        "long": "Mongolian (Mongolia)"
+    },
+    {
+        "short": "ne-NP",
+        "long": "Nepali (Nepal)"
+    },
+    {
+        "short": "no-NO",
+        "long": "Norwegian Bokm\u00e5l (Norway)"
+    },
+    {
+        "short": "fa-IR",
+        "long": "Persian (Iran)"
+    },
+    {
+        "short": "pl-PL",
+        "long": "Polish (Poland)"
+    },
+    {
+        "short": "pt-BR",
+        "long": "Portuguese (Brazil)"
+    },
+    {
+        "short": "pt-PT",
+        "long": "Portuguese (Portugal)"
+    },
+    {
+        "short": "pa-Guru-IN",
+        "long": "Punjabi (Gurmukhi India)"
+    },
+    {
+        "short": "ro-RO",
+        "long": "Romanian (Romania)"
+    },
+    {
+        "short": "ru-RU",
+        "long": "Russian (Russia)"
+    },
+    {
+        "short": "sr-RS",
+        "long": "Serbian (Serbia)"
+    },
+    {
+        "short": "si-LK",
+        "long": "Sinhala (Sri Lanka)"
+    },
+    {
+        "short": "sk-SK",
+        "long": "Slovak (Slovakia)"
+    },
+    {
+        "short": "sl-SI",
+        "long": "Slovenian (Slovenia)"
+    },
+    {
+        "short": "es-AR",
+        "long": "Spanish (Argentina)"
+    },
+    {
+        "short": "es-BO",
+        "long": "Spanish (Bolivia)"
+    },
+    {
+        "short": "es-CL",
+        "long": "Spanish (Chile)"
+    },
+    {
+        "short": "es-CO",
+        "long": "Spanish (Colombia)"
+    },
+    {
+        "short": "es-CR",
+        "long": "Spanish (Costa Rica)"
+    },
+    {
+        "short": "es-DO",
+        "long": "Spanish (Dominican Republic)"
+    },
+    {
+        "short": "es-EC",
+        "long": "Spanish (Ecuador)"
+    },
+    {
+        "short": "es-SV",
+        "long": "Spanish (El Salvador)"
+    },
+    {
+        "short": "es-GT",
+        "long": "Spanish (Guatemala)"
+    },
+    {
+        "short": "es-HN",
+        "long": "Spanish (Honduras)"
+    },
+    {
+        "short": "es-MX",
+        "long": "Spanish (Mexico)"
+    },
+    {
+        "short": "es-NI",
+        "long": "Spanish (Nicaragua)"
+    },
+    {
+        "short": "es-PA",
+        "long": "Spanish (Panama)"
+    },
+    {
+        "short": "es-PY",
+        "long": "Spanish (Paraguay)"
+    },
+    {
+        "short": "es-PE",
+        "long": "Spanish (Peru)"
+    },
+    {
+        "short": "es-PR",
+        "long": "Spanish (Puerto Rico)"
+    },
+    {
+        "short": "es-ES",
+        "long": "Spanish (Spain)"
+    },
+    {
+        "short": "es-US",
+        "long": "Spanish (United States)"
+    },
+    {
+        "short": "es-UY",
+        "long": "Spanish (Uruguay)"
+    },
+    {
+        "short": "es-VE",
+        "long": "Spanish (Venezuela)"
+    },
+    {
+        "short": "su-ID",
+        "long": "Sundanese (Indonesia)"
+    },
+    {
+        "short": "sw-KE",
+        "long": "Swahili (Kenya)"
+    },
+    {
+        "short": "sw-TZ",
+        "long": "Swahili (Tanzania)"
+    },
+    {
+        "short": "sv-SE",
+        "long": "Swedish (Sweden)"
+    },
+    {
+        "short": "ta-IN",
+        "long": "Tamil (India)"
+    },
+    {
+        "short": "ta-MY",
+        "long": "Tamil (Malaysia)"
+    },
+    {
+        "short": "ta-SG",
+        "long": "Tamil (Singapore)"
+    },
+    {
+        "short": "ta-LK",
+        "long": "Tamil (Sri Lanka)"
+    },
+    {
+        "short": "te-IN",
+        "long": "Telugu (India)"
+    },
+    {
+        "short": "th-TH",
+        "long": "Thai (Thailand)"
+    },
+    {
+        "short": "tr-TR",
+        "long": "Turkish (Turkey)"
+    },
+    {
+        "short": "uk-UA",
+        "long": "Ukrainian (Ukraine)"
+    },
+    {
+        "short": "ur-IN",
+        "long": "Urdu (India)"
+    },
+    {
+        "short": "ur-PK",
+        "long": "Urdu (Pakistan)"
+    },
+    {
+        "short": "uz-UZ",
+        "long": "Uzbek (Uzbekistan)"
+    },
+    {
+        "short": "vi-VN",
+        "long": "Vietnamese (Vietnam)"
+    },
+    {
+        "short": "zu-ZA",
+        "long": "Zulu (South Africa)"
+    }
+]

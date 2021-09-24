@@ -1,0 +1,21 @@
+{
+    "date": "2021-07-18",
+    "time": "4:00pm",
+    "title": "Venues",
+    "data": {
+        "monitor": [
+            {
+                "Venue": "99 Bikes Bondi Junction",
+                "Address": "228 Oxford Street",
+                "Suburb": "Bondi Junction",
+                "Date": "Saturday 10 July 2021",
+                "Time": "12:45pm to 2:45pm",
+                "Alert": "Get tested immediately and self-isolate for 14 days.",
+                "Lon": "151.2429926",
+                "Lat": "-33.89015617",
+                "HealthAdviceHTML": "Anyone who attended this venue is a <a href=\"https: //www.health.nsw.gov.au/Infectious/factsheets/Pages/advice-for-contacts.aspx\">close contact</a> and must immediately <a href=\"https://www.nsw.gov.au/covid-19/how-to-protect-yourself-and-others/clinics\">get tested</a> and <a href=\"https://www.nsw.gov.au/covid-19/what-you-can-and-cant-do-under-rules/self-isolation\">self-isolate</a> for 14 days regardless of the result, and call 1800 943 553 unless they have already been contacted by NSW Health.",
+                "Last updated date": "Monday 12 July 2021"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+cron:
+- description: "daily summary job"
+  url: /my/awesome/cronjob
+  schedule: every monday 09:00

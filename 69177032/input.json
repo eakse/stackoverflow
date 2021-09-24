@@ -1,0 +1,32 @@
+{
+    "PMID": {
+        "0": 31920716.0,
+        "1": 31915546.0,
+        "2": 31912059.0,
+        "3": 31908815.0
+    },
+    "ArticleTitle": {
+        "0": "Clinical Usefulness of Computational Modeling-Guided Persistent Atrial Fibrillation Ablation: Updated Outcome of Multicenter Randomized Study.",
+        "1": "Prevalence and Progression of Cognitive Impairment in Atrial Fibrillation Patients after Treatment with Catheter Ablation or Drug Therapy.",
+        "2": "Non traumatic spinal epidural haematoma.",
+        "3": "Twelve-month outcome in patients with stroke and atrial fibrillation not suitable to oral anticoagulant strategy: the WATCH-AF registry."
+    },
+    "Authors": {
+        "0": [
+            "Kim IS",
+            "Uhm JS"
+        ],
+        "1": [
+            "Ortak J",
+            "Caglayan E"
+        ],
+        "2": [
+            "Khalid NA",
+            "Shah N"
+        ],
+        "3": [
+            "Nighoghossian N",
+            "Amarenco P"
+        ]
+    }
+}
